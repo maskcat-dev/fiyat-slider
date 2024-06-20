@@ -11,4 +11,4 @@
 <p>Kod Yazılım Dili : HTML, CSS ve JAVASCRİPT</p>
 
 
-<p style="color: red;">Githubda ve Türkiyede Küçük Esnaf İçin Bir İlk</p>
+<p><h1>Message : Githubda ve Türkiyede Küçük Esnaf İçin Bir İlk</h1></p>
