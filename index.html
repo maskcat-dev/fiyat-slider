@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fiyat Slider</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="main-container">
+        <div class="container">
+            <div class="con1-container">
+                <p class="price-text">Fiyat</p>
+                <div class="lowprices-text">
+                    <p>Düşük</p>
+                    <p>fiyatlar</p>
+                </div>
+            </div>
+            <div class="slider-container">
+                <div class="slider-track"></div>
+                <input type="range" min="0" max="100" value="9" class="slider" id="slider">
+                <div class="tooltip" id="tooltip">9</div>
+            </div>
+            <div class="controls">
+                <div class="controls-ürün">
+                <input type="text" id="item-name" placeholder="Ürün adı giriniz">
+                <button class="apply-button" id="apply-button">Ekle</button>
+            </div>
+            <div class="controls-current">
+
+                <button class="reset-button" id="reset-button">Sıfırla</button>
+            </div>
+            </div>
+        </div>
+        <div class="item-list-container">
+            <h3>Satılık Ürünler</h3>
+            <ul id="item-list"></ul>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
