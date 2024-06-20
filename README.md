@@ -1,7 +1,7 @@
 # fiyat-slider
 <img src="https://i.hizliresim.com/brm5kkx.PNG" alt="sa">
 
-Özellikler :
+<h2> Özellikler :</h2>
 <p>Ürün Adı Giriniz Kısmına Adınızı Girebilirsiniz.</p>
 <p>Ekle Butonuna Tıklarsanız Ürün Eklemiş Olursunuz.</p>
 <p>100% Oransal Bardan 100 Tl Üstü Ekleme Olmadan Altı Ekleme Edebilirsiniz.</p>
